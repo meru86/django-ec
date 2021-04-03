@@ -1,2 +1,2 @@
-# Django-blog3
+# django-blog
 # django-ec
